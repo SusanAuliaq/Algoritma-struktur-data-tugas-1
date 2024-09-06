@@ -1,0 +1,11 @@
+-Inisiasi/input
+1.Tahun maduk mahasiswa 
+2.Tahun dan bulan saat ini:tahun 2024 bulan 9
+3.semester genap 
+-Proses
+4.Selisih tahun:2024-2020 = 4 tahun
+5.Semester:8
+6.Jika bulan saat ini berada pd rentang januari-juni,maka mahasiswa berada pada semester ganjil.
+7.Jika bulan saat ini berada pada rentang Juli-Desember,maka mahasiswa berada pada semester genap.
+-Outpu
+8.Semester saat ini dari siswa
